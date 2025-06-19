@@ -102,6 +102,12 @@ do{
         return 0;
     }
 
+    if(verifyDraw(a)==1){
+
+    printf("Empate...");
+    return 0;
+    }
+    
      true=0;
    
    
